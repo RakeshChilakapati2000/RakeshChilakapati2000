@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RakeshChilakapati2000
 - 👀 I’m interested in Becoming Polymath
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on Full Stack Development Projects
+- 🌱 I’m currently learning Quantum Computing
+- 💞️ I’m looking to collaborate on Quantum Computing Projects
 - 📫 How to reach me chilakapatirakesh9@gmail.com
 
 <!---
